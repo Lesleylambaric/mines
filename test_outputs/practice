@@ -1,0 +1,9 @@
+def LL_elements(LL):
+        i=0
+        first=LL[i]
+        while first != None:
+            yield first
+            i+=1
+        return
+LL=(1,(2,(3,None)))  
+g=LL_elements(LL)
