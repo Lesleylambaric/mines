@@ -1,5 +1,5 @@
 """
-6.1010 Spring '23 Lab 7: Mines
+ Mines
 """
 
 #!/usr/bin/env python3
